@@ -4,4 +4,6 @@
 
 html,
 body,
- :r
+ :root{
+  height: 100;
+ }
